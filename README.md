@@ -5,6 +5,7 @@ I started learning web development by myself in the beggining of 2020, then i de
 I've been working and participating in projects since 2021, now im working in Azor Studio and freelance developer and design studio.
 The projects I've developed and participated are based in html, css, sass, bootstrap, js, react, vue, nodejs, express, mongodb, mysql, firebase, php and wordpress.
 You can see some of my projects here in my githubs repos, and also here some of my wordpress/php works and participations:
+
 https://gleba.com.ar/ -
 
 http://estudiofernandezlubo.com/ -
